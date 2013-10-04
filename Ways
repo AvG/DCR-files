@@ -1,0 +1,55 @@
+MacAdam 1820 road.
+Price ans maintenance.
+1820-MacAdam-road.					Labor-cost basis 1750		1	HCrc				
+						Inflation 3%	1,03	>>  1820=	0,08	HCr		
+												
+Costs for 10 tiles(125) Width 5m						Stone-Tech Intro		1750				
+Basis: max five tile radius from Road-building-storage						Inflation stoneprice %/year 1,5% >>>>>>>>>}			1,015			
+Sand and stone available in Road-building-storage						# Stonework-Efficiencyincr, %/year 1% >>>>}			0,99			
+Next 10 tiles need new Road-building-storage						Stoneprice 1750		0,1	HCr/ton			
+						Sandprice=Stoneprice						
+												
+Activities:	a. Digging 350mm and leveling (stony, roots)											
+	b. Filling with sand 150mm +compacting											
+	c. First layer 200mm of 75mm stone											
+	d. Second layer 50mm of 20mm stone											
+	e. Compacting (cast-iron roller + horses)							Wages:		Materials:		
+												
+Cost a :	Calc 2,5 h/m2 >> 12,5h/5m width >>  12500 h/km  a 0,08 =							1000	HCr			
+	Transport:  s.g. earth 2t/m3.  12 WB/ton				8 h/day							
+	Average way(2-way) 600m. Speed 4km/h  Time/run=					0,15						
+	Calc ton/km: 0,35*5*100*2 =			3500	ton							
+	Calc transport:3500*12*0,15			6300	hours  a	0,08		504	HCr			
+Cost b :	On the way back filling sand transport.											
+	Leveling sand : 0,15*5*1000*2 =				1500	tons				425	HCr	
+	Leveling +compact. (0,1 h/m2): 			500	hours  a	0,08		40	HCr			
+Cost c:	First layer	Consists of 5 layers(stone70)										
+	.Per layer/m2: 100/7*100/7 stones=				204,0816327	~205 stones/m2						
+	5 layers > 	1025	stones	Weight stone		0,4	ton/m2					
+	a 5 sec/stone >>		5125	sec/m2	1,423611111	~1,5 h/m2						
+	1 km 1rst layer >>		7500	hours    a		0,08		600	HCr			
+	1 km 1rst layer-stone 1000*5*0,4=				2000	ton stone70				567	HCr	
+Cost c:	Toplayer 5/20*2000ton=				500	 ton stone20				142	HCr	
+	Leveling +compact. (0,1 h/m2): 			500	hours  a	0,08		40	HCr			
+	Transport : 5/20 first layer							150	HCr			
+Cost d:	Man+2horses + cast iron roller			5km/h	50 runs	10 hours a 0,20		2	HCr			
+												
+						Totals		2336		1134		
+					Wages+Materials			3470				
+					Coverage tools 5%			174				
+					New Total			3644				
+												
+					Overhead	20%		729				
+												
+					Grand total			4372	Rounded	4400	HCr/km	(550/tile)
+												
+												
+Monthly Coast	Maintenance per 20km 2 man, horse and bulkwagon											
+	24 hour-economy > 		2*720=1440 hours/month =			115,2	HCr/20km	5,76	HCr/km/month			
+	horse +wagon (old stuff) + 9 ton small stone					10		0,5				
+	Depreciation road 50 years =							7,3				
+						Total		13,6	HCr/km/month of 720 hours.			
+												
+					At BmP25 : 51,2/720 =			1,0	HCr/km/month			
+												
+					At BmP22 : 6,4/720 =			0,12	HCr/km/month			
